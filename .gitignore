@@ -1,0 +1,11 @@
+**/.settings
+**/Drivers
+**/Middlewares
+**/PDM2PCM
+**/USB_HOST
+.cproject
+.mxproject
+*.launch
+*.ld
+.project
+**/Startup
